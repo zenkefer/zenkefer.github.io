@@ -1,4 +1,4 @@
-const CACHE_NAME = 'kds-cache-v1';
+const CACHE_NAME = 'pos-cache-v1';
 const urlsToCache = [
   '/',
   '/index.html',
